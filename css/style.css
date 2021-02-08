@@ -97,13 +97,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-dark {
-  background: var(--dark-color);
-  color: #fff;
+  background: var(--primary-color);
+  color: #000;
 }
 
 .bg-primary {
   background: var(--primary-color);
-  color: #fff;
+  color: #000;
 }
 
 .bg-secondary {
@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6 {
 .bg-secondary h2,
 .bg-secondary h3,
 .bg-secondary a {
-  color: #fff;
+  color: #000;
 }
 
 .py-1 { padding: 1.5rem 0 }
